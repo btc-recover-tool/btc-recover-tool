@@ -33,7 +33,7 @@ Checksums are on the [release page](https://github.com/btc-recover-tool/BTC-Reco
 
 ## 👋 About
 
-This is the GitHub page of BTC Recover, a free, open-source tool that helps you get back into a crypto wallet you are locked out of by testing likely seed words, passwords and passphrases on your own computer, offline. It runs on Windows, macOS and Linux. BTC Recover is an independent project built on BTCRecover, created by Christopher Gurnee in 2014 and maintained by 3rdIteration. It is not affiliated with or endorsed by either.
+This is the GitHub page of BTC Recover, a free, open-source tool that helps you get back into a crypto wallet you are locked out of by testing likely seed words, passwords and passphrases on your own computer, offline. It runs on Windows, macOS and Linux. BTC Recover is an independent project built on BTCRecover, created by Christopher Gurnee in 2014, and maintained by 3rdIteration. It is not affiliated with or endorsed by either.
 
 ---
 
